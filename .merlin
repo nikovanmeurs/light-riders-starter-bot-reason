@@ -1,0 +1,6 @@
+# This is a Merlin configuration file that enables your editor integration
+# https://github.com/ocaml/merlin/wiki/project-configuration
+
+PKG reason # the OPAM packages
+B ./build # built artifacts location
+S ./src # source location
